@@ -1,4 +1,5 @@
 # mermaid
+- mermaid, github 사용법
 
 ## flow chart
 ```mermaid
